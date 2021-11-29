@@ -185,4 +185,16 @@ nav li a:hover {
     margin-left: 20px;
 }
 @media only screen and (max-width: 800px) {
+    .navbar-brand mb-1 img {
+        width: 50px;
+    }
+    .navbar-brand>img {
+        width: 240px;
+      }
+    .footerbanner {
+        height: 400px;
+    }
+    .footer .textbox {
+        height: 100%;
+    }
   }
