@@ -7,19 +7,19 @@ This project is a website for the "VI CYKLER TIL ARBEJDE" campaign, which encour
 - `index.html`: The main HTML file for the website.
 - `css/style.css`: The CSS file for styling the website.
 - `files/video-aflevering.pdf`: A PDF file related to the campaign.
-- `img/`: A directory containing images used on the website.
+- `img/`: Images used on the website (WebP for photos and banners).
 
 ## Technologies Used
 
 - HTML
-- CSS (Bootstrap)
-- JavaScript (Bootstrap)
+- Plain CSS (no frameworks, no JavaScript)
+- [Yantramanav](https://fonts.google.com/specimen/Yantramanav) from Google Fonts
 
 ## How to Run
 
 1. Clone the repository.
 2. Open `index.html` in a web browser.
 
-## License
+## Notes
 
-This project is licensed under the MIT License.
+The "Helt uden STOP" video on YouTube is currently private (it was uploaded by another team member). The link is kept in case it is made public again.
